@@ -1,6 +1,6 @@
 <h1 align="center" >
   <br>
-    <img src="rocketshoes.png" alt="RocketShoes">
+    <img src="src/assets/rocketshoes.png" alt="RocketShoes">
   <br>
 </h1>
 
